@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Clouds">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Clouds.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
